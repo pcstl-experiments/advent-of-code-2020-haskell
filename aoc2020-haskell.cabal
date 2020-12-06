@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 906b70769a847dc190bba40df5b00c373934f88fa598fc18ffc4c788a7ed0b0e
+-- hash: a15ec3ebca3925b1d7e3f3bb3ac06ad44d16f2d3d5e1affea1a5e0909c2ae49c
 
 name:           aoc2020-haskell
 version:        0.1.0.0
@@ -33,6 +33,7 @@ library
       Day3
       Day4
       Day5
+      Day6
   other-modules:
       Paths_aoc2020_haskell
   hs-source-dirs:
